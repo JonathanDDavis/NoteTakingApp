@@ -1,0 +1,14 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\netstandard2.0\NoteTakingApp.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\netstandard2.0\NoteTakingApp.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\netstandard2.0\ref\NoteTakingApp.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\netstandard2.0\NoteTakingApp.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\ref\NoteTakingApp.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r7jc6Y16AaT1W/2EhfRnHjy+eC/XJxHAPLvax5j/hlBCk73WpshlOhbTo+8LOMPPbOl1aecsB26oBuSGRlMo0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jd0919889\\OneDrive - Ozarks Technical Community College\\C# 2 Programs\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.iOS\\NoteTakingApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jd0919889\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
